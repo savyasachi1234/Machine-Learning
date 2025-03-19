@@ -1,0 +1,9 @@
+Sky,Temp,Humidity,Wind,Water,Forecast,PlayTennis
+Sunny,Hot,High,Weak,Warm,Same,yes
+Sunny,Hot,High,Strong,Warm,Same,yes
+Rainy,Cold,High,Strong,Warm,Change,no
+Sunny,Hot,High,Weak,Cool,Change,yes
+Rainy,Mild,Normal,Weak,Warm,Same,no
+Sunny,Mild,Normal,Weak,Warm,Same,yes
+Rainy,Mild,High,Strong,Cool,Change,no
+Sunny,Hot,Normal,Weak,Warm,Same,yes
